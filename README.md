@@ -1,4 +1,4 @@
-#  i.MX6QDL Sabre-SD Boot LED Simulator
+#  i.MX6QDL Sabre-SD Boot LED
 
 A dual-implementation educational project that simulates the boot LED sequence of the **i.MX6QDL Sabre-SD** development board through both console-based (C) and graphical (Python/Tkinter) interfaces.
 
@@ -359,6 +359,3 @@ If you find this project useful, please consider giving it a star! ⭐
 
 ---
 
-**Note**: This is an educational simulation. Actual i.MX6QDL Sabre-SD board behavior may vary based on specific configurations and hardware revisions.
-
-**Happy Learning and Coding!** 💻🚀
